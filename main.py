@@ -1557,7 +1557,7 @@ def render_html_content(
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>热点新闻分析</title>
+        <title>马老师专用新闻</title>
         <style>
             * { box-sizing: border-box; }
             body { 
@@ -1902,7 +1902,7 @@ def render_html_content(
     <body>
         <div class="container">
             <div class="header">
-                <div class="header-title">热点新闻分析</div>
+                <div class="header-title">马老师专用新闻</div>
                 <div class="header-info">
                     <div class="info-item">
                         <span class="info-label">报告类型</span>
