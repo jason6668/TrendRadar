@@ -1557,7 +1557,7 @@ def render_html_content(
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>马老师专用新闻</title>
+        <title>马老师专用热点新闻分析</title>
         <style>
             * { box-sizing: border-box; }
             body { 
@@ -1886,6 +1886,37 @@ def render_html_content(
                 font-family: 'SF Mono', Consolas, monospace;
             }
 
+            /* 按钮样式 */
+            .header-actions {
+                display: flex;
+                gap: 12px;
+                justify-content: center;
+                margin-top: 20px;
+            }
+
+            .action-btn {
+                background: rgba(255, 255, 255, 0.2);
+                color: white;
+                border: 2px solid rgba(255, 255, 255, 0.5);
+                padding: 10px 20px;
+                border-radius: 8px;
+                font-size: 14px;
+                font-weight: 600;
+                cursor: pointer;
+                transition: all 0.3s ease;
+                backdrop-filter: blur(10px);
+            }
+
+            .action-btn:hover {
+                background: rgba(255, 255, 255, 0.3);
+                border-color: rgba(255, 255, 255, 0.8);
+                transform: translateY(-2px);
+            }
+
+            .action-btn:active {
+                transform: translateY(0);
+            }
+
             @media (max-width: 480px) {
                 body { padding: 12px; }
                 .header { padding: 24px 20px; }
@@ -1896,13 +1927,85 @@ def render_html_content(
                 .news-item { gap: 8px; }
                 .new-item { gap: 8px; }
                 .news-number { width: 20px; height: 20px; font-size: 12px; }
+                .header-actions { flex-direction: column; }
+                .action-btn { width: 100%; }
             }
         </style>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+        <script>
+            // 保存为图片功能
+            function saveAsImage() {
+                const container = document.querySelector('.container');
+                html2canvas(container, {
+                    scale: 2,
+                    useCORS: true,
+                    backgroundColor: '#fafafa'
+                }).then(canvas => {
+                    const link = document.createElement('a');
+                    const now = new Date();
+                    const filename = `马老师专用热点新闻_${now.getFullYear()}${String(now.getMonth()+1).padStart(2,'0')}${String(now.getDate()).padStart(2,'0')}_${String(now.getHours()).padStart(2,'0')}${String(now.getMinutes()).padStart(2,'0')}.png`;
+                    link.download = filename;
+                    link.href = canvas.toDataURL();
+                    link.click();
+                });
+            }
+
+            // 分段保存功能
+            function saveInSections() {
+                const wordGroups = document.querySelectorAll('.word-group');
+                let delay = 0;
+                
+                // 先保存header
+                const headerContainer = document.createElement('div');
+                headerContainer.className = 'container';
+                headerContainer.innerHTML = document.querySelector('.header').outerHTML;
+                document.body.appendChild(headerContainer);
+                
+                html2canvas(headerContainer, {
+                    scale: 2,
+                    useCORS: true,
+                    backgroundColor: '#fafafa'
+                }).then(canvas => {
+                    const link = document.createElement('a');
+                    const now = new Date();
+                    link.download = `马老师专用热点新闻_标题_${now.getFullYear()}${String(now.getMonth()+1).padStart(2,'0')}${String(now.getDate()).padStart(2,'0')}.png`;
+                    link.href = canvas.toDataURL();
+                    link.click();
+                });
+                
+                document.body.removeChild(headerContainer);
+                
+                // 保存每个词组
+                wordGroups.forEach((group, index) => {
+                    setTimeout(() => {
+                        const tempContainer = document.createElement('div');
+                        tempContainer.style.cssText = 'position: absolute; left: -9999px; background: white; padding: 24px; border-radius: 12px;';
+                        tempContainer.appendChild(group.cloneNode(true));
+                        document.body.appendChild(tempContainer);
+                        
+                        html2canvas(tempContainer, {
+                            scale: 2,
+                            useCORS: true,
+                            backgroundColor: 'white'
+                        }).then(canvas => {
+                            const link = document.createElement('a');
+                            const now = new Date();
+                            const wordName = group.querySelector('.word-name').textContent;
+                            link.download = `马老师专用热点新闻_${wordName}_${index+1}.png`;
+                            link.href = canvas.toDataURL();
+                            link.click();
+                            document.body.removeChild(tempContainer);
+                        });
+                    }, delay);
+                    delay += 1000; // 每个间隔1秒
+                });
+            }
+        </script>
     </head>
     <body>
         <div class="container">
             <div class="header">
-                <div class="header-title">马老师专用新闻</div>
+                <div class="header-title">马老师专用热点新闻分析</div>
                 <div class="header-info">
                     <div class="info-item">
                         <span class="info-label">报告类型</span>
@@ -1949,6 +2052,10 @@ def render_html_content(
 
     html += """</span>
                     </div>
+                </div>
+                <div class="header-actions">
+                    <button class="action-btn" onclick="saveAsImage()">保存为图片</button>
+                    <button class="action-btn" onclick="saveInSections()">分段保存</button>
                 </div>
             </div>
 
@@ -2338,7 +2445,7 @@ def split_content_into_batches(
     if format_type == "wework":
         base_header = f"**总新闻数：** {total_titles}\n\n\n\n"
     elif format_type == "telegram":
-        base_header = f"总新闻数： {total_titles}\n\n"
+        base_header = f"<b>📰 马老师专用热点新闻分析</b>\n\n总新闻数： {total_titles}\n\n"
 
     base_footer = ""
     if format_type == "wework":
