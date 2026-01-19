@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-01-19T12:46:57.595770+08:00",
-  "total_titles_processed": 501,
+  "generated_at": "2026-01-19T18:22:30.958961+08:00",
+  "total_titles_processed": 730,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 34,
       "titles": [
         {
           "title": "欧洲8国集体回应特朗普关税威胁",
           "url": "https://news.ifeng.com/c/8q27ChONuGJ",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时14分 ~ 12时46分]"
+          "appearance_count": 4,
+          "time_info": "[09时14分 ~ 18时22分]"
         },
         {
           "title": "【早报】中国商业航天首次！载人飞船着陆缓冲技术获成功验证；特朗普再打“关税牌”，欧盟多国：正考虑反制",
@@ -88,6 +89,18 @@
           "time_info": "[09时14分 ~ 12时46分]"
         },
         {
+          "title": "特朗普为何强夺格陵兰岛？贝森特：因为欧洲“软弱”",
+          "url": "https://wallstreetcn.com/articles/3763548",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时46分 ~ 18时22分]"
+        },
+        {
           "title": "伊朗总统警告特朗普：攻击哈梅内伊将引发全面战争",
           "url": "https://news.ifeng.com/c/8q1bdYC7EP7",
           "source": "凤凰网",
@@ -110,15 +123,15 @@
           "time_info": "[09时14分 ~ 09时15分]"
         },
         {
-          "title": "特朗普为何强夺格陵兰岛？贝森特：因为欧洲“软弱”",
-          "url": "https://wallstreetcn.com/articles/3763548",
-          "source": "华尔街见闻",
+          "title": "英国首相斯塔默：英国正就特朗普政府的关税威胁与欧盟展开密切协调。",
+          "url": "https://flash.jin10.com/detail/20260119174959047800",
+          "source": "金十数据",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时46分"
+          "time_info": "18时22分"
         },
         {
           "title": "美国总统特朗普：在达拉斯建立“纽约证券交易所”对纽约来说是难以置信的坏事。",
@@ -127,9 +140,42 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时46分"
+        },
+        {
+          "title": "反击特朗普“关税战”！欧洲酝酿“资本战”，德银：八万亿美国资产或成“杀手锏”",
+          "url": "https://wallstreetcn.com/articles/3763556",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
+          "title": "挪威首相：我已多次向美国总统特朗普明确解释，诺贝尔和平奖是由一个独立委员会颁发的。",
+          "url": "https://flash.jin10.com/detail/20260119174944070800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
+          "title": "出于多重考虑 特朗普没有下达对伊朗动武指令",
+          "url": "https://wallstreetcn.com/livenews/3039672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         },
         {
           "title": "特朗普称将“清除格陵兰岛俄罗斯威胁”",
@@ -138,9 +184,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时46分"
+        },
+        {
+          "title": "英国首相斯塔默：我认为美国总统特朗普并未考虑对格陵兰岛采取军事行动。",
+          "url": "https://flash.jin10.com/detail/20260119174911667800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         },
         {
           "title": "从抢油到夺岛：解析特朗普的“唐罗主义”",
@@ -149,9 +206,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时46分"
+        },
+        {
+          "title": "挪威首相：特朗普总统的回信是为了回复我当天早些时候代表我自己以及芬兰总统亚历山大·斯图布发送的一条简短短信。",
+          "url": "https://flash.jin10.com/detail/20260119174837961800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         },
         {
           "title": "特朗普称，在达拉斯建造一个“纽约证券交易所”对纽约来说是一件糟糕透顶的事。",
@@ -160,7 +228,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时46分"
         },
@@ -171,7 +239,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时46分"
         },
@@ -182,7 +250,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时46分"
         },
@@ -193,7 +261,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时46分"
         },
@@ -204,9 +272,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时46分"
+        },
+        {
+          "title": "英国首相斯塔默：（就美国总统特朗普的和平委员会）我们已表明愿意在第二阶段发挥我们的作用。我们正就相关条款与盟友磋商。",
+          "url": "https://flash.jin10.com/detail/20260119174618506800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         },
         {
           "title": "欧洲斯托克50指数期货下跌1%，德国DAX指数期货下跌1.1%。此前消息，特朗普称2月1日起对欧洲八国加征关税，直至“完全收购格陵兰岛”。报道称欧盟考虑对930亿欧元输欧美国商品加征关税反击。",
@@ -220,15 +299,92 @@
           "time_info": "09时15分"
         },
         {
+          "title": "特朗普：“解决俄罗斯对格陵兰岛威胁”时机已到",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32414383",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
+          "title": "瑞典财政大臣： （谈及特朗普的关税威胁）我们不应低头哈腰、卑躬屈膝，而应奋起反击。",
+          "url": "https://flash.jin10.com/detail/20260119174049761800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
+          "title": "英国首相斯塔默：毫无疑问，未来几天将再次与美国总统特朗普通话。",
+          "url": "https://flash.jin10.com/detail/20260119173510782800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
+          "title": "欧洲汽车股、奢侈品股下跌 受特朗普最新关税威胁影响",
+          "url": "https://wallstreetcn.com/livenews/3039643",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
+          "title": "特朗普致信挪威首相：“不再有义务只考虑和平”",
+          "url": "https://wallstreetcn.com/livenews/3039642",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
           "title": "美财长声援特朗普加税夺岛",
           "url": "https://www.toutiao.com/trending/7595914700006211647/",
           "source": "今日头条",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时46分"
+        },
+        {
+          "title": "克里姆林宫：很难不同意专家们的观点，即如果美国总统特朗普拿下格陵兰岛，他将载入世界史册。",
+          "url": "https://flash.jin10.com/detail/20260119173315238800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
+          "title": "克里姆林宫：我们不讨论美国总统特朗普拿下格陵兰岛是好是坏。",
+          "url": "https://flash.jin10.com/detail/20260119173302877800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         }
       ]
     },
@@ -278,7 +434,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时46分"
         }
@@ -306,7 +462,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时46分"
         }
@@ -344,6 +500,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时14分 ~ 09时15分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "格陵兰引发关税战风险，欧美股市双双大跌，金银再创新高，铜价逼近13000",
+          "url": "https://wallstreetcn.com/articles/3763546",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         }
       ]
     }
