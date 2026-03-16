@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-03-16T09:48:19.054034+08:00",
-  "total_titles_processed": 297,
+  "generated_at": "2026-03-16T13:47:50.414189+08:00",
+  "total_titles_processed": 493,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 25,
+      "match_count": 33,
       "titles": [
+        {
+          "title": "美以袭击已致伊朗至少202名儿童死亡",
+          "url": "https://news.ifeng.com/c/8rW7h5EGE2g",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 13时47分]"
+        },
         {
           "title": "美以伊战争丨帮中东国家防伊朗无人机，泽连斯基喊价",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
@@ -19,26 +30,49 @@
           "time_info": "09时48分"
         },
         {
-          "title": "美以袭击已致伊朗至少202名儿童死亡",
-          "url": "https://news.ifeng.com/c/8rW7h5EGE2g",
+          "title": "6问美以伊战事走向：美国如何停战？伊朗是否会恋战？",
+          "url": "https://news.ifeng.com/c/8rWNQ4DcbqP",
           "source": "凤凰网",
           "ranks": [
-            3
+            2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时48分"
+          "time_info": "13时47分"
         },
         {
-          "title": "伊朗革命卫队：将追杀内塔尼亚胡",
-          "url": "https://news.ifeng.com/c/8rVz99NL49L",
+          "title": "伊朗外长：以色列轰炸德黑兰燃料库构成生态灭绝罪",
+          "url": "https://news.ifeng.com/c/8rXHR4YfLU9",
           "source": "凤凰网",
           "ranks": [
-            6
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
+        },
+        {
+          "title": "监控拍到伊朗导弹命中以街道瞬间",
+          "url": "https://news.ifeng.com/c/8rXAgOdvIJb",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
+        },
+        {
+          "title": "伊朗战争后黄金为何下跌？摩根大通：市场动荡初期，黄金往往首先被抛售，此后或迅速转涨",
+          "url": "https://wallstreetcn.com/articles/3767553",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 13时47分]"
         },
         {
           "title": "美以袭击伊朗进入第 17 天，当前局势怎样？哪些信息值得关注？",
@@ -48,15 +82,108 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 13时47分]"
         },
         {
           "title": "战前买下全球1/3超级油轮运力！这位神秘韩国富豪是伊朗战争最大赢家？",
           "url": "https://wallstreetcn.com/articles/3767544",
           "source": "华尔街见闻",
           "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 13时47分]"
+        },
+        {
+          "title": "伊朗：有人栽赃",
+          "url": "https://news.ifeng.com/c/8rVzJMtBPyo",
+          "source": "凤凰网",
+          "ranks": [
             7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 13时47分]"
+        },
+        {
+          "title": "泽连斯基：乌克兰未卷入与伊朗的战争",
+          "url": "https://news.ifeng.com/c/8rWD6LESPBl",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 13时47分]"
+        },
+        {
+          "title": "伊朗：将把以色列总理内塔尼亚胡作为打击目标",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32772222",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 13时47分]"
+        },
+        {
+          "title": "伊朗称将追杀内塔尼亚胡",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%B0%86%E8%BF%BD%E6%9D%80%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 13时47分]"
+        },
+        {
+          "title": "伊朗：海湾国家成为美国野心的牺牲品",
+          "url": "https://www.toutiao.com/trending/7616854230845915155/",
+          "source": "今日头条",
+          "ranks": [
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 13时47分]"
+        },
+        {
+          "title": "伊朗发战报 警告打击福特号航母后勤",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%8F%91%E6%88%98%E6%8A%A5+%E8%AD%A6%E5%91%8A%E6%89%93%E5%87%BB%E7%A6%8F%E7%89%B9%E5%8F%B7%E8%88%AA%E6%AF%8D%E5%90%8E%E5%8B%A4",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 13时47分]"
+        },
+        {
+          "title": "伊朗无人机袭击迪拜、巴林花旗银行分行，美方曾打击伊银行，双方互袭金融机构，对全球金融市场有怎样的影响？",
+          "url": "https://www.zhihu.com/question/2016300383673283698",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 13时47分]"
+        },
+        {
+          "title": "伊朗革命卫队：将追杀内塔尼亚胡",
+          "url": "https://news.ifeng.com/c/8rVz99NL49L",
+          "source": "凤凰网",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -74,26 +201,15 @@
           "time_info": "09时48分"
         },
         {
-          "title": "伊朗：有人栽赃",
-          "url": "https://news.ifeng.com/c/8rVzJMtBPyo",
-          "source": "凤凰网",
+          "title": "伊朗称440公斤60%丰度浓缩铀被埋",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%A7%B0440%E5%85%AC%E6%96%A460%25%E4%B8%B0%E5%BA%A6%E6%B5%93%E7%BC%A9%E9%93%80%E8%A2%AB%E5%9F%8B%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
           "ranks": [
             7
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
-          "title": "伊朗战争后黄金为何下跌？摩根大通：市场动荡初期，黄金往往首先被抛售，此后或迅速转涨",
-          "url": "https://wallstreetcn.com/articles/3767553",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
+          "time_info": "13时47分"
         },
         {
           "title": "伊朗高官：美国在这场战争中自取其辱",
@@ -107,48 +223,15 @@
           "time_info": "09时48分"
         },
         {
-          "title": "泽连斯基：乌克兰未卷入与伊朗的战争",
-          "url": "https://news.ifeng.com/c/8rWD6LESPBl",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
-          "title": "伊朗称将追杀内塔尼亚胡",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%B0%86%E8%BF%BD%E6%9D%80%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
-          "title": "伊朗：海湾国家成为美国野心的牺牲品",
-          "url": "https://www.toutiao.com/trending/7616854230845915155/",
+          "title": "伊朗称目前发射导弹多为10年前生产",
+          "url": "https://www.toutiao.com/trending/7616976559953723430/",
           "source": "今日头条",
           "ranks": [
             11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
-          "title": "伊朗：将把以色列总理内塔尼亚胡作为打击目标",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32772222",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
+          "time_info": "13时47分"
         },
         {
           "title": "外媒：更少成本，更多效果，伊朗的反击让美国意外",
@@ -173,33 +256,22 @@
           "time_info": "09时48分"
         },
         {
+          "title": "伊朗称同时打击美军4个空军基地",
+          "url": "https://www.toutiao.com/trending/7616705806347780147/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
+        },
+        {
           "title": "伊朗称目前发射导弹多为10年前生产",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E7%9B%AE%E5%89%8D%E5%8F%91%E5%B0%84%E5%AF%BC%E5%BC%B9%E5%A4%9A%E4%B8%BA10%E5%B9%B4%E5%89%8D%E7%94%9F%E4%BA%A7",
           "source": "百度热搜",
           "ranks": [
             14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
-          "title": "伊朗发战报 警告打击福特号航母后勤",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%8F%91%E6%88%98%E6%8A%A5+%E8%AD%A6%E5%91%8A%E6%89%93%E5%87%BB%E7%A6%8F%E7%89%B9%E5%8F%B7%E8%88%AA%E6%AF%8D%E5%90%8E%E5%8B%A4",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
-          "title": "伊朗无人机袭击迪拜、巴林花旗银行分行，美方曾打击伊银行，双方互袭金融机构，对全球金融市场有怎样的影响？",
-          "url": "https://www.zhihu.com/question/2016300383673283698",
-          "source": "知乎",
-          "ranks": [
-            15
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -226,6 +298,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
+        },
+        {
+          "title": "伊朗称目前发射导弹多为10年前生产",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32774677",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
+        },
+        {
+          "title": "野村证券：伊朗冲突若持续逾三月 韩国央行加息概率料上升",
+          "url": "https://flash.jin10.com/detail/20260316120734136800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
         },
         {
           "title": "伊朗首次出动“泥石”弹道导弹",
@@ -286,8 +380,41 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "媒体爆料“特朗普是如何决定发动伊朗战争的”，关于霍尔木兹海峡、委内瑞拉和结束战争计划",
+          "url": "https://wallstreetcn.com/articles/3767541",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 13时47分]"
+        },
+        {
+          "title": "美以伊战争丨特朗普痛斥美国媒体叛国",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
+        },
+        {
+          "title": "深套伊朗，特朗普“浮亏加仓”，袭击哈尔克是对是错？丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260316132853477800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
+        },
         {
           "title": "鲍威尔“威胁”特朗普政府：如果继续调查，他将留任美联储理事直到2028年1月",
           "url": "https://wallstreetcn.com/articles/3767540",
@@ -311,17 +438,6 @@
           "time_info": "09时48分"
         },
         {
-          "title": "媒体爆料“特朗普是如何决定发动伊朗战争的”，关于霍尔木兹海峡、委内瑞拉和结束战争计划",
-          "url": "https://wallstreetcn.com/articles/3767541",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
           "title": "周末要闻汇总：企业微信已支持一键扫码接入OpenClaw；特朗普称暂时不会与伊朗达成停火协议",
           "url": "https://www.cls.cn/detail/2313186",
           "source": "财联社热门",
@@ -331,6 +447,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
+        },
+        {
+          "title": "美伊战火持续蔓延！美石油巨头警告特朗普政府：能源危机恐恶化",
+          "url": "https://www.cls.cn/detail/2313562",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
         },
         {
           "title": "多国护航，特朗普就能“搞定”霍尔木兹海峡了吗？",
@@ -355,17 +482,6 @@
           "time_info": "09时48分"
         },
         {
-          "title": "特朗普称将联合多国派遣军舰，确保霍尔木兹海峡通航安全",
-          "url": "https://wallstreetcn.com/articles/3767537",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
           "title": "美国被曝拟宣布组建霍尔木兹海峡「护航联盟」，特朗普威胁北约盟友协助通航，如何解读美方意图？有哪些影响？",
           "url": "https://www.zhihu.com/question/2016791283864138046",
           "source": "知乎",
@@ -373,15 +489,38 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 13时47分]"
         },
         {
           "title": "泽连斯基：特朗普可能视我如子，但我不是最受宠的",
           "url": "https://m.thepaper.cn/newsDetail_forward_32772625",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 13时47分]"
+        },
+        {
+          "title": "特朗普点名多国参加护航霍尔木兹海峡，德法日韩：不去",
+          "url": "https://news.ifeng.com/c/8rXCGrQJNtV",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
+        },
+        {
+          "title": "特朗普称将联合多国派遣军舰，确保霍尔木兹海峡通航安全",
+          "url": "https://wallstreetcn.com/articles/3767537",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -402,18 +541,47 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "市场处于“爆发临界点”！高盛爆料：本周机构对美股的抛售和做空量达到“历史级别”",
           "url": "https://wallstreetcn.com/articles/3767545",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            4
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 13时47分]"
+        },
+        {
+          "title": "国际油价高开后转跌，WTI日内跌超1%，韩股一度涨超1%，美股期货走高",
+          "url": "https://wallstreetcn.com/articles/3767567",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时48分"
+          "time_info": "13时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
         }
       ]
     }
