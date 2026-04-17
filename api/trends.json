@@ -1,13 +1,11 @@
 {
-  "generated_at": "2026-04-17T14:01:54.260161+08:00",
-  "total_titles_processed": 533,
-  "failed_sources": [
-    "toutiao"
-  ],
+  "generated_at": "2026-04-17T18:49:54.278246+08:00",
+  "total_titles_processed": 749,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 24,
+      "match_count": 27,
       "titles": [
         {
           "title": "美方对伊朗启动代号为“经济狂怒”的行动",
@@ -18,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时55分 ~ 14时01分]"
+          "appearance_count": 4,
+          "time_info": "[09时55分 ~ 18时49分]"
         },
         {
           "title": "美对伊启动“经济狂怒”行动、施压达成协议，伊朗斥为经济恐怖主义，称敌人误判战局",
@@ -30,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时55分 ~ 14时01分]"
+          "appearance_count": 4,
+          "time_info": "[09时55分 ~ 18时49分]"
         },
         {
           "title": "伊朗战争丨伊朗总统：民众对美国不再抱有任何信任",
@@ -43,6 +41,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
+        },
+        {
+          "title": "伊朗在霍尔木兹海峡收费，为何新加坡急了？",
+          "url": "https://news.ifeng.com/c/8sOrmZQ0DT7",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
+          "title": "英媒：至少有8艘船突破美方针对伊朗港口的封锁",
+          "url": "https://wallstreetcn.com/livenews/3090011",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
         },
         {
           "title": "伊朗：将就官员被暗杀追究美以责任",
@@ -67,6 +87,19 @@
           "time_info": "09时55分"
         },
         {
+          "title": "她工资腰斩，却想学开飞机去轰炸伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32985465",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时55分 ~ 18时49分]"
+        },
+        {
           "title": "美军喊话 ：要去伊朗的船立即掉头，否则我们就动武",
           "url": "https://v.ifeng.com/c/8sN5mIzhL68",
           "source": "凤凰网",
@@ -85,20 +118,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时55分 ~ 14时01分]"
-        },
-        {
-          "title": "她工资腰斩，却想学开飞机去轰炸伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32985465",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时55分 ~ 14时01分]"
+          "appearance_count": 4,
+          "time_info": "[09时55分 ~ 18时49分]"
         },
         {
           "title": "英媒称伊朗部署中国卫星监视美军基地，中使馆：坚决反对造谣",
@@ -106,11 +127,12 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时55分 ~ 14时01分]"
+          "appearance_count": 4,
+          "time_info": "[09时55分 ~ 18时49分]"
         },
         {
           "title": "美方对伊朗启动代号为「经济狂怒」的行动，其具体措施与以往制裁会有何差异？可能对双方谈判有怎样的影响？",
@@ -223,6 +245,17 @@
           "time_info": "09时55分"
         },
         {
+          "title": "伊朗军队总司令：时刻扣住扳机迎击敌人",
+          "url": "https://wallstreetcn.com/livenews/3089982",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
           "title": "伊朗革命卫队称抵抗阵线向曼德海峡船只发出警告",
           "url": "https://wallstreetcn.com/livenews/3089666",
           "source": "华尔街见闻-快讯",
@@ -251,7 +284,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时01分"
         },
@@ -262,7 +295,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时01分"
         },
@@ -281,20 +314,8 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
-        {
-          "title": "特朗普：美伊下次会晤或在本周末举行",
-          "url": "https://news.ifeng.com/c/8sN3kmBakib",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时55分 ~ 14时01分]"
-        },
         {
           "title": "特朗普：美伊下次会谈可能本周末举行，不排除必要时延长停火，伊朗同意不拥有核武",
           "url": "https://wallstreetcn.com/articles/3770182",
@@ -302,6 +323,18 @@
           "ranks": [
             7,
             4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时55分 ~ 18时49分]"
+        },
+        {
+          "title": "特朗普：美伊下次会晤或在本周末举行",
+          "url": "https://news.ifeng.com/c/8sN3kmBakib",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -349,8 +382,30 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时00分 ~ 14时01分]"
+          "appearance_count": 3,
+          "time_info": "[14时00分 ~ 18时49分]"
+        },
+        {
+          "title": "伊朗战争丨特朗普称澳大利亚不出兵帮忙，澳总理反驳",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
+          "title": "心心念念的大房子不让造，特朗普暴怒开喷",
+          "url": "https://news.ifeng.com/c/8sOn1dFNorh",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
         },
         {
           "title": "特朗普称黎以停火10天",
@@ -375,13 +430,35 @@
           "time_info": "09时55分"
         },
         {
+          "title": "海湾地区官员：特朗普迫切希望结束战争，或将接受更多妥协",
+          "url": "https://flash.jin10.com/detail/20260417182105937800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-04-17）",
+          "url": "https://flash.jin10.com/detail/20260417181312613800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
           "title": "打脸特朗普！海湾和欧洲官员：美伊协议至少需六个月，不是“很快”",
           "url": "https://flash.jin10.com/detail/20260417125738435800",
           "source": "金十数据",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时01分"
         },
@@ -411,7 +488,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "中东紧张局势持续，美股勉强新高，纳指十二连涨，中概股指跑赢大盘，原油两连涨",
@@ -421,8 +498,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时55分 ~ 14时01分]"
+          "appearance_count": 4,
+          "time_info": "[09时55分 ~ 18时49分]"
         },
         {
           "title": "美股收盘：纳指12连涨 锂矿、CPU、光通信牛股带头冲高",
@@ -434,6 +511,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时55分 ~ 14时01分]"
+        },
+        {
+          "title": "一图看懂 | A股七姐妹vs美股七姐妹，今年谁更能涨？",
+          "url": "https://www.cls.cn/detail/2347485",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
         },
         {
           "title": "“反手做空，趁现在还来得及”！高盛交易员警告美股涨过头，抛出6笔对冲交易",
@@ -455,19 +543,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时00分 ~ 14时01分]"
+          "appearance_count": 3,
+          "time_info": "[14时00分 ~ 18时49分]"
         },
         {
           "title": "风头盖过英伟达！美股CPU双雄股价齐创新高 AI属性渐获市场认可",
           "url": "https://www.cls.cn/detail/2346971",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时00分 ~ 14时01分]"
+          "appearance_count": 3,
+          "time_info": "[14时00分 ~ 18时49分]"
         },
         {
           "title": "AI需求强劲支撑涨势 美股三大期指小幅走高 | 今夜看点",
@@ -544,7 +633,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时01分"
         }
