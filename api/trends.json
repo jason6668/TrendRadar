@@ -1,22 +1,35 @@
 {
-  "generated_at": "2026-07-18T09:48:56.033799+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-07-18T13:59:39.354757+08:00",
+  "total_titles_processed": 519,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 22,
+      "match_count": 32,
       "titles": [
         {
           "title": "伊朗发射巡航导弹打击美军舰艇",
           "url": "https://news.ifeng.com/c/8uqYuoIZbpV",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 13时59分]"
+        },
+        {
+          "title": "伊朗革命卫队：两艘油轮在霍尔木兹海峡爆炸起火",
+          "url": "https://news.ifeng.com/c/8uqpdYcN3Nl",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 13时59分]"
         },
         {
           "title": "美中央司令部：结束连续第七晚对伊朗的打击行动",
@@ -24,17 +37,6 @@
           "source": "金十数据",
           "ranks": [
             1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
-          "title": "伊朗革命卫队：两艘油轮在霍尔木兹海峡爆炸起火",
-          "url": "https://news.ifeng.com/c/8uqpdYcN3Nl",
-          "source": "凤凰网",
-          "ranks": [
-            2
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -52,15 +54,49 @@
           "time_info": "09时48分"
         },
         {
+          "title": "据伊朗迈赫尔通讯社：科威特第五次响起警报。",
+          "url": "https://flash.jin10.com/detail/20260718132444025800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
+        },
+        {
+          "title": "科威特军方表示，科威特目前正在拦截从伊朗发射的导弹和无人机。",
+          "url": "https://flash.jin10.com/detail/20260718131448247800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
+        },
+        {
           "title": "伊朗称袭击位于科威特和约旦的美军基地",
           "url": "https://wallstreetcn.com/livenews/3135944",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            28
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 13时59分]"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗伊斯兰革命卫队表示，针对美国在谢赫伊萨空军基地的战斗机设施进行了打击。",
+          "url": "https://flash.jin10.com/detail/20260718130947273800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时48分"
+          "time_info": "13时59分"
         },
         {
           "title": "据伊通社（IRNA）：阿拉伯媒体报道称，伊朗导弹成功突破约旦防空系统，声称“爱国者”导弹防御系统未能有效拦截。",
@@ -151,6 +187,17 @@
           "time_info": "09时48分"
         },
         {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗伊斯兰革命卫队表示，若领土被用于对伊朗的攻击，驻有美国军队的国家应预期“相应的回应”。",
+          "url": "https://flash.jin10.com/detail/20260718122202420800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
+        },
+        {
           "title": "伊朗革命卫队：两艘油轮穿越霍尔木兹海峡南部雷区后爆炸起火",
           "url": "https://wallstreetcn.com/livenews/3135933",
           "source": "华尔街见闻-快讯",
@@ -173,6 +220,17 @@
           "time_info": "09时48分"
         },
         {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗伊斯兰革命卫队表示，在科威特针对美国军方设施进行了打击。",
+          "url": "https://flash.jin10.com/detail/20260718122117595800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
+        },
+        {
           "title": "伊朗称击落一架美军MQ-9无人机",
           "url": "https://wallstreetcn.com/livenews/3135928",
           "source": "华尔街见闻-快讯",
@@ -182,6 +240,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
+        },
+        {
+          "title": "美国官员：伊朗向沙特美军基地发射导弹",
+          "url": "https://wallstreetcn.com/livenews/3135958",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
+        },
+        {
+          "title": "伊朗亮第二把锁，油价为何只涨了一轮？",
+          "url": "https://flash.jin10.com/detail/20260718120203545800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
         },
         {
           "title": "伊朗梅赫尔通讯社（MEHR）援引当地官员的话称，“敌方”发射的弹药落在了伊朗中部城市亚兹德市郊外，目前未报告有人员伤亡。",
@@ -217,6 +297,17 @@
           "time_info": "09时48分"
         },
         {
+          "title": "伊朗国家电视台援引伊朗军方的话称，伊朗在巴林针对美国军方资产和燃料罐进行了打击。",
+          "url": "https://flash.jin10.com/detail/20260718112529599800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
+        },
+        {
           "title": "伊朗多地传出爆炸声",
           "url": "https://wallstreetcn.com/livenews/3135921",
           "source": "华尔街见闻-快讯",
@@ -239,6 +330,28 @@
           "time_info": "09时48分"
         },
         {
+          "title": "美军称结束第七晚对伊朗打击行动",
+          "url": "https://wallstreetcn.com/livenews/3135947",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
+        },
+        {
+          "title": "美国官员：伊朗向沙特美军基地发射导弹",
+          "url": "https://flash.jin10.com/detail/20260718110048188800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
+        },
+        {
           "title": "伊朗国家电视台援引伊朗军方消息称，已对美国在科威特和约旦的营地及基地进行了打击。",
           "url": "https://flash.jin10.com/detail/20260718075831060800",
           "source": "金十数据",
@@ -252,8 +365,80 @@
       ]
     },
     {
+      "keyword_group": "特朗普",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "中方驳斥特朗普“中国干预美国大选”论调",
+          "url": "https://news.ifeng.com/c/8upog6XKRmu",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "特朗普的社交帖文被包装成付费产品，华尔街机构不付费就将“慢人一步”",
+          "url": "https://flash.jin10.com/detail/20260718092759635800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "特朗普支持“兄终妹及”：任期结束后继续参选",
+          "url": "https://news.ifeng.com/c/8ur9XDi7eVj",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
+        },
+        {
+          "title": "特朗普再谈巴洛贡红牌事件",
+          "url": "https://news.ifeng.com/c/8ur69Rbmt2A",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
+        },
+        {
+          "title": "分析｜轰炸、备忘录双双失效，特朗普还有C计划吗？专家：美国已陷入“战略死胡同”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33605316",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
+        },
+        {
+          "title": "曝特朗普买股票后在社媒发有利信息",
+          "url": "https://www.toutiao.com/trending/7662654350632255514/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美股收盘：三大指数集体收跌 费城半导体指数进入熊市 存储板块冲高回落",
@@ -263,8 +448,19 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 13时59分]"
+        },
+        {
+          "title": "美股芯片股，距熊市仅一步之遥",
+          "url": "https://wallstreetcn.com/articles/3777197",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时48分"
+          "time_info": "13时59分"
         },
         {
           "title": "美股半导体指数跌入熊市",
@@ -291,45 +487,6 @@
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "中方驳斥特朗普“中国干预美国大选”论调",
-          "url": "https://news.ifeng.com/c/8upog6XKRmu",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
-          "title": "特朗普的社交帖文被包装成付费产品，华尔街机构不付费就将“慢人一步”",
-          "url": "https://flash.jin10.com/detail/20260718092759635800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
-          "title": "曝特朗普买股票后在社媒发有利信息",
-          "url": "https://www.toutiao.com/trending/7662654350632255514/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -338,11 +495,12 @@
           "url": "https://wallstreetcn.com/articles/3777230",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 13时59分]"
         }
       ]
     },
@@ -355,11 +513,12 @@
           "url": "https://www.cls.cn/detail/2430073",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 13时59分]"
         }
       ]
     },
