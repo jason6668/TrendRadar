@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-19T14:25:49.660209+08:00",
-  "total_titles_processed": 511,
+  "generated_at": "2026-07-19T19:07:27.008298+08:00",
+  "total_titles_processed": 725,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 39,
+      "match_count": 51,
       "titles": [
+        {
+          "title": "美军对伊朗发动新一轮空袭，约旦美军基地5天遭4袭，美军两人死亡，伊朗最高领袖强调将给美国留下“刻骨铭心的教训”",
+          "url": "https://wallstreetcn.com/articles/3777329",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时25分 ~ 19时07分]"
+        },
         {
           "title": "美伊交锋波及多国民用设施，伊朗预警将“全面进攻”",
           "url": "https://news.ifeng.com/c/8usQYImeW3f",
@@ -32,18 +44,18 @@
           "time_info": "[09时57分 ~ 14时25分]"
         },
         {
-          "title": "美军对伊朗发动新一轮空袭，约旦美军基地5天遭4袭，美军两人死亡，伊朗最高领袖强调将给美国留下“刻骨铭心的教训”",
-          "url": "https://wallstreetcn.com/articles/3777329",
-          "source": "华尔街见闻",
+          "title": "一觉醒来，伊朗让美军付出重大代价",
+          "url": "https://news.ifeng.com/c/8usdq92gz1I",
+          "source": "凤凰网",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
         {
-          "title": "一觉醒来，伊朗让美军付出重大代价",
+          "title": "伊朗让美军付出重大代价",
           "url": "https://news.ifeng.com/c/8usdq92gz1I",
           "source": "凤凰网",
           "ranks": [
@@ -51,7 +63,7 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时25分"
+          "time_info": "19时07分"
         },
         {
           "title": "伊朗霍尔木兹甘省政府：截至目前，未记录到任何阿巴斯港遭导弹袭击的情况",
@@ -65,13 +77,46 @@
           "time_info": "09时57分"
         },
         {
+          "title": "伊朗谴责美国对在建核电站发动“恐怖袭击”",
+          "url": "https://flash.jin10.com/detail/20260719185028674800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
+        },
+        {
+          "title": "上任以来首次！伊朗最高领袖将美国称为“大撒旦”",
+          "url": "https://news.ifeng.com/c/8ut9zQF2d6I",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
+        },
+        {
+          "title": "报道：停火期间伊朗石油出口额达60亿美元",
+          "url": "https://wallstreetcn.com/livenews/3136252",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
+        },
+        {
           "title": "据沙特媒体哈达斯：以色列安全消息人士表示，伊朗最高领袖穆杰塔巴发表的信息由伊朗革命卫队总司令艾哈迈德·瓦希迪和革命卫队撰写。",
           "url": "https://flash.jin10.com/detail/20260719140743177800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -93,7 +138,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -114,11 +159,24 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            7
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时57分 ~ 19时07分]"
+        },
+        {
+          "title": "伊朗停止履行谅解备忘录后 哈梅内伊誓言让美国“领教难忘的教训”",
+          "url": "https://www.cls.cn/detail/2430324",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时57分 ~ 14时25分]"
+          "time_info": "[14时25分 ~ 19时07分]"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：至少六枚导弹击中伊朗的凯什姆岛郊区。",
@@ -149,7 +207,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -163,6 +221,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
+        },
+        {
+          "title": "协议成废纸,伊朗掀桌硬刚美国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356311&amp;topic_name=%E5%8D%8F%E8%AE%AE%E6%88%90%E5%BA%9F%E7%BA%B8%2C%E4%BC%8A%E6%9C%97%E6%8E%80%E6%A1%8C%E7%A1%AC%E5%88%9A%E7%BE%8E%E5%9B%BD",
+          "source": "贴吧",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：伊朗格什姆岛居民称，3至5枚导弹击中了岛上的不同区域。",
@@ -182,7 +251,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -204,9 +273,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
+        },
+        {
+          "title": "伊朗革命卫队称两艘船只在霍尔木兹海峡发生事故",
+          "url": "https://wallstreetcn.com/livenews/3136244",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
         },
         {
           "title": "伊朗称打击科威特境内美军基地",
@@ -215,7 +295,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -237,20 +317,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
         {
-          "title": "伊朗停止履行谅解备忘录后 哈梅内伊誓言让美国“领教难忘的教训”",
-          "url": "https://www.cls.cn/detail/2430324",
-          "source": "财联社热门",
+          "title": "巴林称拦截伊朗导弹和无人机",
+          "url": "https://flash.jin10.com/detail/20260719183054706800",
+          "source": "金十数据",
           "ranks": [
-            12
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时25分"
+          "time_info": "19时07分"
         },
         {
           "title": "市场消息：伊朗霍尔木兹甘省格什姆岛传来多声爆炸巨响。",
@@ -264,13 +344,24 @@
           "time_info": "09时57分"
         },
         {
+          "title": "据伊朗迈赫尔通讯社：伊朗原子能组织谴责美国对达尔霍文在建核电站的空袭，称其为“违反国际法的罪行”。",
+          "url": "https://flash.jin10.com/detail/20260719183026984800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
+        },
+        {
           "title": "伊朗胡齐斯坦省萨兰德地区发生5级地震",
           "url": "https://wallstreetcn.com/livenews/3136140",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -303,9 +394,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
+        },
+        {
+          "title": "伊朗谴责美国对在建核电站发动“恐怖袭击”",
+          "url": "https://wallstreetcn.com/livenews/3136236",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
         },
         {
           "title": "伊朗对美军基地发动打击。伊朗打击了美军在乌代里营地的弹药库，伊朗还打击了阿里·萨勒姆空军基地的空中雷达。（伊朗官媒PRESS TV）",
@@ -314,7 +416,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -325,7 +427,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -358,7 +460,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -374,13 +476,35 @@
           "time_info": "09时57分"
         },
         {
+          "title": "巴林称拦截伊朗导弹和无人机",
+          "url": "https://wallstreetcn.com/livenews/3136231",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
+        },
+        {
+          "title": "伊朗革命卫队：已在霍尔木兹海峡成功“拦截”四艘“违规”船只",
+          "url": "https://flash.jin10.com/detail/20260719174534118800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
+        },
+        {
           "title": "美军对伊朗发动新一轮空袭",
           "url": "https://wallstreetcn.com/livenews/3136128",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -396,13 +520,24 @@
           "time_info": "09时57分"
         },
         {
+          "title": "伊朗革命卫队：有两艘在霍尔木兹海峡南部航线上航行的船只发生事故，另有两艘船已宣布放弃航行。",
+          "url": "https://flash.jin10.com/detail/20260719173936328800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
+        },
+        {
           "title": "美国中央司令部：于美东时间7月18日晚上11:30完成了对伊朗的另一轮打击。",
           "url": "https://flash.jin10.com/detail/20260719113717584800",
           "source": "金十数据",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -413,7 +548,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         },
@@ -443,7 +578,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "穆杰塔巴：特朗普的签名毫无价值、无效",
@@ -462,11 +597,23 @@
           "url": "https://www.cls.cn/detail/2430341",
           "source": "财联社热门",
           "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时25分 ~ 19时07分]"
+        },
+        {
+          "title": "美国援外大转向：特朗普要向欧洲输出“MAGA”",
+          "url": "https://news.ifeng.com/c/8utCDuus6XE",
+          "source": "凤凰网",
+          "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时25分"
+          "time_info": "19时07分"
         },
         {
           "title": "空气质量影响世界杯决赛？特朗普扬言就加拿大山火烟霾追加关税",
@@ -498,9 +645,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
+        },
+        {
+          "title": "特朗普盟友去世有何影响",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%9B%9F%E5%8F%8B%E5%8E%BB%E4%B8%96%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
         },
         {
           "title": "特朗普：“完全不在乎”伊朗暂停履行临时协议",
@@ -542,7 +700,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         }
@@ -550,7 +708,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美股收盘：三大指数集体收跌 费城半导体指数进入熊市 存储板块冲高回落",
@@ -569,11 +727,23 @@
           "url": "https://www.baidu.com/s?wd=Kimi+K3%E6%8A%8A%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%B9%B2%E5%B4%A9%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
-            14
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时25分 ~ 19时07分]"
+        },
+        {
+          "title": "Kimi K3重创美股半导体",
+          "url": "https://search.bilibili.com/all?keyword=Kimi%20K3%E9%87%8D%E5%88%9B%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时25分"
+          "time_info": "19时07分"
         },
         {
           "title": "Kimi K3把美股半导体干崩了",
@@ -582,7 +752,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         }
@@ -597,11 +767,12 @@
           "url": "https://wallstreetcn.com/articles/3777339",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时25分 ~ 19时07分]"
         },
         {
           "title": "DeepSeek V4 正式版即将发布，有哪些值得关注的亮点？",
@@ -618,18 +789,30 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "TCL华星星智X-Intelligence大模型在显示领域超越Gemini 3.1 Pro与GPT-5.5 high",
+          "url": "https://wallstreetcn.com/livenews/3136253",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时07分"
+        },
         {
           "title": "下周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
           "url": "https://wallstreetcn.com/articles/3777171",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时25分 ~ 19时07分]"
         }
       ]
     },
