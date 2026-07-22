@@ -1,29 +1,30 @@
 {
-  "generated_at": "2026-07-22T09:56:29.331789+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-07-22T14:23:26.782235+08:00",
+  "total_titles_processed": 498,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "胡塞武装封锁红海？特朗普回应",
+          "url": "https://news.ifeng.com/c/8ux6FAGKMcr",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时56分 ~ 14时23分]"
+        },
         {
           "title": "特朗普：可能很快打击伊朗“镐山”核设施",
           "url": "https://news.ifeng.com/c/8ux7TemK3px",
           "source": "凤凰网",
           "ranks": [
             3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时56分"
-        },
-        {
-          "title": "胡塞武装封锁红海？特朗普回应",
-          "url": "https://news.ifeng.com/c/8ux6FAGKMcr",
-          "source": "凤凰网",
-          "ranks": [
-            5
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -37,8 +38,31 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时56分 ~ 14时23分]"
+        },
+        {
+          "title": "特朗普称将打击伊朗地下核设施 美官员暗示将很快出台新关税 | 环球市场",
+          "url": "https://www.cls.cn/detail/2433256",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时56分 ~ 14时23分]"
+        },
+        {
+          "title": "这条40余年的禁令，被特朗普解除了",
+          "url": "https://news.ifeng.com/c/8uxiWY6YntB",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时56分"
+          "time_info": "14时23分"
         },
         {
           "title": "特朗普点名伊朗镐山地下核设施：将很快发动猛烈打击",
@@ -46,17 +70,6 @@
           "source": "财联社热门",
           "ranks": [
             9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时56分"
-        },
-        {
-          "title": "特朗普称将打击伊朗地下核设施 美官员暗示将很快出台新关税 | 环球市场",
-          "url": "https://www.cls.cn/detail/2433256",
-          "source": "财联社热门",
-          "ranks": [
-            11
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -132,7 +145,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "科技股力撑美股指反弹，芯片指数大涨，美光市值重回万亿，日元跌破163，金银猛涨",
@@ -142,8 +155,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时56分"
+          "appearance_count": 2,
+          "time_info": "[09时56分 ~ 14时23分]"
         },
         {
           "title": "【早报】美股存储芯片强势反攻，多股大涨超10%；油价、黄金同步走强；A股又一批增持回购潮来了",
@@ -153,19 +166,32 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时56分"
+          "appearance_count": 2,
+          "time_info": "[09时56分 ~ 14时23分]"
         },
         {
           "title": "美股收盘：明星存储股集体飙涨两位数 芯片股反弹费城指数升逾5%",
           "url": "https://www.cls.cn/detail/2433220",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时56分"
+          "appearance_count": 2,
+          "time_info": "[09时56分 ~ 14时23分]"
+        },
+        {
+          "title": "美股存储概念全线爆发！华尔街喊话坚守AI硬件股：Kimi K3将催生新需求",
+          "url": "https://www.cls.cn/detail/2433303",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时56分 ~ 14时23分]"
         },
         {
           "title": "美股AI概念盘前昂扬齐涨 美伊战火仍在持续 | 今夜看点",
@@ -179,21 +205,21 @@
           "time_info": "09时56分"
         },
         {
-          "title": "美股存储概念全线爆发！华尔街喊话坚守AI硬件股：Kimi K3将催生新需求",
-          "url": "https://www.cls.cn/detail/2433303",
-          "source": "财联社热门",
+          "title": "剧烈反弹！美股“科技动量股”创史上最大单日涨幅，但暴跌结束了吗？",
+          "url": "https://wallstreetcn.com/articles/3777612",
+          "source": "华尔街见闻",
           "ranks": [
-            13
+            7
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时56分"
+          "time_info": "14时23分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "伊朗还有两大杀手锏",
@@ -218,6 +244,17 @@
           "time_info": "09时56分"
         },
         {
+          "title": "伊朗称袭击美国亚马逊公司在巴林的数据基础设施",
+          "url": "https://wallstreetcn.com/livenews/3137992",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
+        },
+        {
           "title": "美军连续第11晚对伊朗发动袭击",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E8%BF%9E%E7%BB%AD%E7%AC%AC11%E6%99%9A%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8F%91%E5%8A%A8%E8%A2%AD%E5%87%BB",
           "source": "百度热搜",
@@ -238,6 +275,74 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
+        },
+        {
+          "title": "伊朗说打就打",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E8%AF%B4%E6%89%93%E5%B0%B1%E6%89%93%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "Kimi 员工震惊和 OpenAI 算力的差距，为什么在这么大差距下 Kimi 还能做出来 K3 ？",
+          "url": "https://www.zhihu.com/question/2062943431668789795",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
+        },
+        {
+          "title": "OpenAI负责人抨击Kimi开源",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356366&amp;topic_name=OpenAI%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%8A%A8%E5%87%BBKimi%E5%BC%80%E6%BA%90",
+          "source": "贴吧",
+          "ranks": [
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时56分 ~ 14时23分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金价银价油价集体上涨",
+          "url": "https://www.douyin.com/hot/2580433",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
+        },
+        {
+          "title": "金价银价油价集体上涨",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E6%B2%B9%E4%BB%B7%E9%9B%86%E4%BD%93%E4%B8%8A%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
         }
       ]
     },
@@ -250,28 +355,12 @@
           "url": "https://wallstreetcn.com/articles/3777555",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI负责人抨击Kimi开源",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356366&amp;topic_name=OpenAI%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%8A%A8%E5%87%BBKimi%E5%BC%80%E6%BA%90",
-          "source": "贴吧",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时56分"
+          "appearance_count": 2,
+          "time_info": "[09时56分 ~ 14时23分]"
         }
       ]
     }
