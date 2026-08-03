@@ -1,12 +1,46 @@
 {
-  "generated_at": "2026-08-03T10:04:45.781513+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-08-03T14:54:09.369274+08:00",
+  "total_titles_processed": 544,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "【早报】特朗普称取消打击伊朗，原油大跌、黄金上涨；央行定调下半年货币政策",
+          "url": "https://www.cls.cn/detail/2443662",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时04分 ~ 14时54分]"
+        },
+        {
+          "title": "接连反转！特朗普透露三个信息",
+          "url": "https://news.ifeng.com/c/8vHV3ihqOZt",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时04分 ~ 14时54分]"
+        },
+        {
+          "title": "特朗普称决定惩罚加拿大",
+          "url": "https://news.ifeng.com/c/8vHh8bqoTlY",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时53分 ~ 14时54分]"
+        },
         {
           "title": "TACO！特朗普“取消对伊朗打击”，伊朗否认曾要求停火，沙特王储曾致电美方“敦促缓和局势”",
           "url": "https://wallstreetcn.com/articles/3778504",
@@ -19,26 +53,37 @@
           "time_info": "10时04分"
         },
         {
-          "title": "【早报】特朗普称取消打击伊朗，原油大跌、黄金上涨；央行定调下半年货币政策",
-          "url": "https://www.cls.cn/detail/2443662",
+          "title": "事关霍尔木兹！特朗普称今日举行谈判，伊朗重申“不会恢复至战前”！",
+          "url": "https://www.cls.cn/detail/2443690",
           "source": "财联社热门",
           "ranks": [
-            2
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时04分"
+          "appearance_count": 2,
+          "time_info": "[14时53分 ~ 14时54分]"
         },
         {
-          "title": "接连反转！特朗普透露三个信息",
-          "url": "https://news.ifeng.com/c/8vHV3ihqOZt",
+          "title": "特朗普：日本向我们求助",
+          "url": "https://news.ifeng.com/c/8vHueaJjUVf",
           "source": "凤凰网",
           "ranks": [
-            5
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时04分"
+          "appearance_count": 2,
+          "time_info": "[14时53分 ~ 14时54分]"
+        },
+        {
+          "title": "摩洛哥国王决定以特朗普名字命名公路",
+          "url": "https://www.toutiao.com/trending/7669384893911973894/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时53分 ~ 14时54分]"
         },
         {
           "title": "特朗普：同意取消对伊朗的打击",
@@ -76,6 +121,45 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美债彻底陷入“失控边缘”：真正的风暴才刚开始？",
+          "url": "https://www.cls.cn/detail/2443731",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时53分 ~ 14时54分]"
+        },
+        {
+          "title": "贝森特“小纸条”曝光：美国下场拉日元，是怕美债跟着遭殃？",
+          "url": "https://www.cls.cn/detail/2443401",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
+          "title": "美联储抗通胀信誉要崩？大型资管警告暂时别碰长期美债",
+          "url": "https://flash.jin10.com/detail/20260803094121969800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        }
+      ]
+    },
+    {
       "keyword_group": "伊朗",
       "match_count": 3,
       "titles": [
@@ -87,8 +171,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时04分"
+          "appearance_count": 3,
+          "time_info": "[10时04分 ~ 14时54分]"
         },
         {
           "title": "涉及霍尔木兹海峡，伊朗外交部再发声",
@@ -115,47 +199,48 @@
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "贝森特“小纸条”曝光：美国下场拉日元，是怕美债跟着遭殃？",
-          "url": "https://www.cls.cn/detail/2443401",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时04分"
-        },
-        {
-          "title": "美联储抗通胀信誉要崩？大型资管警告暂时别碰长期美债",
-          "url": "https://flash.jin10.com/detail/20260803094121969800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时04分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "DeepSeek-V4系列迎重大升级 性能追平旗舰模型 Agent能力大幅增强",
           "url": "https://www.cls.cn/detail/2443548",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时04分"
+          "appearance_count": 3,
+          "time_info": "[10时04分 ~ 14时54分]"
+        },
+        {
+          "title": "全球大模型进入DeepSeek斩杀区",
+          "url": "https://s.weibo.com/weibo?q=%E5%85%A8%E7%90%83%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%BF%9B%E5%85%A5DeepSeek%E6%96%A9%E6%9D%80%E5%8C%BA&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时53分 ~ 14时54分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何评价 OpenAI 、 Anthropic 、谷歌等巨头联名呼吁控制前沿自动化 AI 研发？",
+          "url": "https://www.zhihu.com/question/2065724643378570793",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时53分 ~ 14时54分]"
         }
       ]
     },
@@ -173,6 +258,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "通胀“过山车”难挡美股牛市？小摩押注标普500明年冲击8200点",
+          "url": "https://flash.jin10.com/detail/20260803140546061800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时54分"
         }
       ]
     }
