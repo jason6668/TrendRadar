@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-10-20T10:51:32.913559+08:00",
-  "total_titles_processed": 531,
+  "generated_at": "2026-10-20T17:02:46.099047+08:00",
+  "total_titles_processed": 737,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 8,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "伊朗外交部发言人巴加埃：也门问题只能通过对话和各方商定的路线图解决，任何新的外部干预都将使局势更加复杂。",
+          "url": "https://flash.jin10.com/detail/20261020164044939800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        },
+        {
+          "title": "以色列总理称已下达“推翻伊朗政权”指令",
+          "url": "https://news.ifeng.com/c/8xMtGPaQbmS",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时51分 ~ 17时02分]"
+        },
         {
           "title": "伊朗针对美以威胁有哪些反击预案？凤凰记者：可能从3方面入手",
           "url": "https://original.ifeng.com/c/8xLtsod5Mjq",
@@ -19,15 +41,26 @@
           "time_info": "00时44分"
         },
         {
-          "title": "以色列总理称已下达“推翻伊朗政权”指令",
-          "url": "https://news.ifeng.com/c/8xMtGPaQbmS",
-          "source": "凤凰网",
+          "title": "伊朗称埃及介入胡塞和沙特的冲突只会将使局势恶化",
+          "url": "https://wallstreetcn.com/livenews/3181730",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时51分"
+          "time_info": "17时02分"
+        },
+        {
+          "title": "伊朗外交部发言人巴加埃：埃及准备在胡塞武装与沙特的战争中帮助沙特，此举使局势恶化。",
+          "url": "https://flash.jin10.com/detail/20261020163324881800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
         },
         {
           "title": "伊朗第一副总统Aref：伊朗除了主张对霍尔木兹海峡的控制权“别无选择”。（伊朗媒体IRNA）",
@@ -52,6 +85,17 @@
           "time_info": "00时44分"
         },
         {
+          "title": "俄外长：俄专家正陆续返回伊朗布什尔核电站项目",
+          "url": "https://wallstreetcn.com/livenews/3181712",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        },
+        {
           "title": "伊朗第一副总统阿雷夫：可为“友好国家”提供霍尔木兹海峡通行便利。",
           "url": "https://flash.jin10.com/detail/20261019235725695800",
           "source": "金十数据",
@@ -61,6 +105,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
+        },
+        {
+          "title": "伊朗外交部发言人巴加埃：埃及在沙特与胡塞武装战争中的作用使局势恶化。",
+          "url": "https://flash.jin10.com/detail/20261020162856934800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
         },
         {
           "title": "伊朗第一副总统阿雷夫：伊朗别无选择，只能对霍尔木兹海峡实施管控。",
@@ -91,15 +146,26 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时51分"
+        },
+        {
+          "title": "伊朗重申美国的“过分要求”阻碍谈判进展。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3181699",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 13,
       "titles": [
         {
           "title": "普京提议中美俄三方会谈，特朗普表态",
@@ -108,9 +174,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时51分 ~ 17时02分]"
         },
         {
           "title": "特朗普：也许泽连斯基是时候找别人来谈判了",
@@ -119,9 +185,53 @@
           "ranks": [
             2
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时51分 ~ 17时02分]"
+        },
+        {
+          "title": "特朗普：中方在乌问题上立场很公允",
+          "url": "https://www.toutiao.com/trending/7697897058136604715/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时51分"
+          "time_info": "17时02分"
+        },
+        {
+          "title": "花活+1，特朗普呼吁：新墨西哥州应更名为“新美国州”",
+          "url": "https://news.ifeng.com/c/8xMwKeUNLmT",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时51分 ~ 17时02分]"
+        },
+        {
+          "title": "如何看待特朗普再推80亿美元柴油补贴",
+          "url": "https://www.toutiao.com/trending/7698633967376797225/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        },
+        {
+          "title": "中期选举前关键民调！特朗普支持率创历史新低：31%",
+          "url": "https://www.cls.cn/detail/2509225",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
         },
         {
           "title": "不满豁免对俄制裁，担心更坏事情发生，美媒称泽连斯基决定“公开对抗特朗普”",
@@ -141,20 +251,31 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时51分"
         },
         {
-          "title": "花活+1，特朗普呼吁：新墨西哥州应更名为“新美国州”",
-          "url": "https://news.ifeng.com/c/8xMwKeUNLmT",
-          "source": "凤凰网",
+          "title": "特朗普民调支持率创历史新低",
+          "url": "https://www.toutiao.com/trending/7698543479689904678/",
+          "source": "今日头条",
           "ranks": [
-            12
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时51分"
+          "time_info": "17时02分"
+        },
+        {
+          "title": "新华社：特朗普为何此时“力挺”内塔尼亚胡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34285005",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
         },
         {
           "title": "伊朗外长阿拉格齐：欧洲国家是这场战争的参与方。 就在几周前，北约秘书长宣布，有500多架美国战斗机从欧洲空军基地起飞，对伊朗实施军事行动。 法国曾公开表态支持这场战争，还致信美国总统特朗普，表示将协助其对伊朗作战。 如今法国面临社会危机，却将危机归咎于一场他们声称自己并未参与的战争所带来的后果。",
@@ -177,12 +298,118 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
+        },
+        {
+          "title": "特朗普为何“厚”以“薄”乌",
+          "url": "https://www.toutiao.com/trending/7698245928846786601/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "如何评价 DeepSeek V4.1 Flash 1017 登顶「史上最差 AI 模型名称排行榜」?",
+          "url": "https://www.zhihu.com/question/2095476625228019430",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时51分 ~ 17时02分]"
+        },
+        {
+          "title": "美国禁止政府使用DeepSeek",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E7%A6%81%E6%AD%A2%E6%94%BF%E5%BA%9C%E4%BD%BF%E7%94%A8DeepSeek",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        },
+        {
+          "title": "美国政府指示各机构停用DeepSeek，外交部：反对将科技经贸问题政治化",
+          "url": "https://www.cls.cn/detail/2509748",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        },
+        {
+          "title": "实测Deepseek v4.1动画效果",
+          "url": "https://www.douyin.com/hot/2703379",
+          "source": "抖音",
+          "ranks": [
+            23,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时44分 ~ 10时51分]"
+        },
+        {
+          "title": "梁文锋和 DeepSeek，为什么配得上 「 国运级 」 三个字？",
+          "url": "https://www.zhihu.com/question/2093628371448217836",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时44分"
+        },
+        {
+          "title": "华为工程师入驻DeepSeek，双方合作加速",
+          "url": "https://flash.jin10.com/detail/20261020102501861800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时51分"
+        },
+        {
+          "title": "如何评价 DeepSeek 开放自研搜索 API，单价为每 1000 次成功请求 5 元？",
+          "url": "https://www.zhihu.com/question/2094892066190915387",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时44分"
+        },
+        {
+          "title": "DeepSeek学霸的降维打击",
+          "url": "https://www.toutiao.com/trending/7698612360591707667/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "【早报】美股存储、半导体股，全线爆发；首批18只主动ETF获批；10余家A股公司宣布回购",
@@ -191,7 +418,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时51分"
         },
@@ -202,7 +429,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时51分"
         },
@@ -247,78 +474,38 @@
           "ranks": [
             24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "如何评价 DeepSeek V4.1 Flash 1017 登顶「史上最差 AI 模型名称排行榜」?",
-          "url": "https://www.zhihu.com/question/2095476625228019430",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时51分"
         },
         {
-          "title": "实测Deepseek v4.1动画效果",
-          "url": "https://www.douyin.com/hot/2703379",
-          "source": "抖音",
+          "title": "美股盘前，存储芯片股普跌，SK海力士跌约4%，西部数据跌约2%，闪迪跌约2%，美光科技跌约2%，希捷科技跌约2%。",
+          "url": "https://wallstreetcn.com/livenews/3181703",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            23,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 10时51分]"
-        },
-        {
-          "title": "梁文锋和 DeepSeek，为什么配得上 「 国运级 」 三个字？",
-          "url": "https://www.zhihu.com/question/2093628371448217836",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时44分"
-        },
-        {
-          "title": "华为工程师入驻DeepSeek，双方合作加速",
-          "url": "https://flash.jin10.com/detail/20261020102501861800",
-          "source": "金十数据",
-          "ranks": [
-            15
+            24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时51分"
-        },
-        {
-          "title": "如何评价 DeepSeek 开放自研搜索 API，单价为每 1000 次成功请求 5 元？",
-          "url": "https://www.zhihu.com/question/2094892066190915387",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时44分"
+          "time_info": "17时02分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "谷歌云：多个谷歌云服务在欧洲西部2区域出现错误率上升及间歇性网络故障。",
+          "url": "https://flash.jin10.com/detail/20261020163731000800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        },
         {
           "title": "Cognizant与谷歌云扩大合作联盟，加速企业向智能体驱动型企业转型。",
           "url": "https://flash.jin10.com/detail/20261020000257327800",
@@ -333,25 +520,8 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "实际收益率高企压制金价，配置资金却逆势加仓",
-          "url": "https://flash.jin10.com/detail/20261020103106122800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时51分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "芯片股反弹，纳指开盘涨1.3%，费城半导体指数涨超3%，油价高位回落，美债走高",
@@ -363,6 +533,51 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
+        },
+        {
+          "title": "摩根士丹利：通胀预期未脱锚，美债究竟在慌什么？",
+          "url": "https://flash.jin10.com/detail/20261020163144209800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "赶在Anthropic IPO前：OpenAI据悉加速融资 估值或超1.4万亿美元",
+          "url": "https://www.cls.cn/detail/2509215",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "实际收益率高企压制金价，配置资金却逆势加仓",
+          "url": "https://flash.jin10.com/detail/20261020103106122800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时51分"
         }
       ]
     }
