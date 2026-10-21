@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-21T17:02:03.728785+08:00",
-  "total_titles_processed": 541,
+  "generated_at": "2026-10-21T22:48:40.248890+08:00",
+  "total_titles_processed": 747,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "特朗普：也许泽连斯基是时候找别人来谈判了",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时45分"
+        },
+        {
+          "title": "泽连斯基和特朗普，彻底决裂了？",
+          "url": "https://news.ifeng.com/c/8xPKsnXuGn8",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
         },
         {
           "title": "特朗普为何突然对乌克兰翻脸",
@@ -80,9 +91,81 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "美股收盘：三大指数涨跌不一 SpaceX绩后股价走强",
+          "url": "https://www.cls.cn/detail/2510428",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
+          "title": "美股见顶最直接的信号：韩国芯片出口？",
+          "url": "https://wallstreetcn.com/articles/3784011",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
+          "title": "强劲季报提振AI交易，美股开盘走高，SpaceX涨幅扩大至10%，英伟达涨约2%，油价再度走高",
+          "url": "https://wallstreetcn.com/articles/3784116",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
+          "title": "韩国AI新股上市首日暴跌 美股科技题材再度承压 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2510214",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
+          "title": "美股盘前：SpaceX涨约9%，超微电脑涨约15%，奈飞跌约6%",
+          "url": "https://wallstreetcn.com/livenews/3182465",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，半导体ETF、全球科技股指数ETF涨超1%，医疗业ETF跌0.5%。",
+          "url": "https://wallstreetcn.com/livenews/3182773",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
         }
       ]
     },
@@ -137,86 +220,8 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美股收盘：三大指数涨跌不一 SpaceX绩后股价走强",
-          "url": "https://www.cls.cn/detail/2510428",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时45分"
-        },
-        {
-          "title": "美股见顶最直接的信号：韩国芯片出口？",
-          "url": "https://wallstreetcn.com/articles/3784011",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时45分"
-        },
-        {
-          "title": "韩国AI新股上市首日暴跌 美股科技题材再度承压 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2510214",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时45分"
-        },
-        {
-          "title": "美股盘前：SpaceX涨约9%，超微电脑涨约15%，奈飞跌约6%",
-          "url": "https://wallstreetcn.com/livenews/3182465",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "伊朗已有超 3 万名女性忍者，熟练使用弓、剑、飞镖等武器等训练画面走热，背后是怎样的社会文化环境？",
-          "url": "https://www.zhihu.com/question/2095115972684112468",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时01分 ~ 17时02分]"
-        },
-        {
-          "title": "伊朗总统称谈判前提是美方解除施压、威胁和制裁 | 环球市场",
-          "url": "https://www.cls.cn/detail/2510457",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时45分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 4,
       "titles": [
         {
           "title": "OpenAI前工程师涉嫌窃密，疑似与沙特政界交往甚密",
@@ -228,6 +233,107 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时45分"
+        },
+        {
+          "title": "OpenAI：已承诺投入10亿美元，通过Daybreak项目向一线网络安全防御人员提供补贴支持的Daybreak使用权限。",
+          "url": "https://flash.jin10.com/detail/20261021223211711800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
+          "title": "OpenAI：（就PHP安全漏洞问题）据我们所知，前沿人工智能模型先于攻击者发现了这些漏洞。",
+          "url": "https://flash.jin10.com/detail/20261021223158698800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
+          "title": "OpenAI：（就PHP安全漏洞问题）鉴于这些漏洞的严重程度以及PHP的广泛应用，公司认为这是近年来影响最为重大的安全漏洞之一。",
+          "url": "https://flash.jin10.com/detail/20261021223109494800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "伊朗外长：不相信美方诚意 几无理由期待进展",
+          "url": "https://wallstreetcn.com/livenews/3182804",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
+          "title": "伊朗已有超 3 万名女性忍者，熟练使用弓、剑、飞镖等武器等训练画面走热，背后是怎样的社会文化环境？",
+          "url": "https://www.zhihu.com/question/2095115972684112468",
+          "source": "知乎",
+          "ranks": [
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时01分 ~ 22时48分]"
+        },
+        {
+          "title": "伊朗总统称谈判前提是美方解除施压、威胁和制裁 | 环球市场",
+          "url": "https://www.cls.cn/detail/2510457",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
+          "title": "国乒男团亚锦赛3-0战胜伊朗男团",
+          "url": "https://www.toutiao.com/trending/7698625662931910697/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌公司回应PHP核心漏洞CVE-2026-109618与CVE-2026-109619。 谷歌云平台本身不受这两个漏洞影响，但在谷歌云上运行PHP的用户可能受影响。 Gemini 4 Argon参与了漏洞发现、利用开发、攻击检测以及补丁验证工作。 谷歌云正在为所有受支持的PHP版本推出更新后的无服务器基础镜像。 敦促客户立即升级到PHP 8.2或更新版本，并使用已修补版本重新部署服务。",
+          "url": "https://wallstreetcn.com/livenews/3182800",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
         }
       ]
     }
