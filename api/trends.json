@@ -1,11 +1,84 @@
 {
-  "generated_at": "2026-10-22T10:43:32.197127+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-10-22T17:04:53.852108+08:00",
+  "total_titles_processed": 541,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "伊朗",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "据伊通社（IRNA）报道，伊朗安全事务负责人穆赫辛·雷扎伊少将表示，所有人都必须明白，任何针对伊朗的行动都要付出代价。如果外交手段能够让各方认识到这一点，伊朗更倾向于通过外交解决问题；但如果战争持续，伊朗拥有维持反击所需的手段。",
+          "url": "https://flash.jin10.com/detail/20261022163519823800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
+        },
+        {
+          "title": "伊朗警告称如果美国继续护航，伊朗可能袭击美国基地。霍尔木兹海峡“非法”通行事件或将扩大冲突范围。",
+          "url": "https://wallstreetcn.com/livenews/3183384",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
+        },
+        {
+          "title": "美国增兵1万人、以色列酝酿新一轮打击、伊朗发出战争警告，中东火药桶一触即发？",
+          "url": "https://wallstreetcn.com/articles/3784121",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时43分 ~ 17时04分]"
+        },
+        {
+          "title": "伊朗官员：已做好应对全面战争准备",
+          "url": "https://www.toutiao.com/trending/7699092788410860083/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
+        },
+        {
+          "title": "以色列官员警告：选举前打击伊朗或构成政治干预",
+          "url": "https://flash.jin10.com/detail/20261022162355076800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
+        },
+        {
+          "title": "伊朗最高领袖会见议会议长卡利巴夫",
+          "url": "https://www.toutiao.com/trending/7699142459120484914/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时43分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "揭秘DeepSeek开源推理框架",
@@ -17,6 +90,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时43分"
+        },
+        {
+          "title": "“DeepSeek才是真正的OpenAI”",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9CDeepSeek%E6%89%8D%E6%98%AF%E7%9C%9F%E6%AD%A3%E7%9A%84OpenAI%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
         },
         {
           "title": "腾讯姚顺雨想把DeepSeek卷到加班",
@@ -33,7 +117,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "【早报】科技股火力全开，纳指领涨美股；中办、国办发文！事关人工智能；泽连斯基：愿在保留至少75%领土控制权的基础上达成和平协议",
@@ -43,8 +127,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时43分"
+          "appearance_count": 2,
+          "time_info": "[10时43分 ~ 17时04分]"
         },
         {
           "title": "美股收盘：芯片、存储、光集体走强 纳指升超1%领涨三大指数",
@@ -54,42 +138,25 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美国增兵1万人、以色列酝酿新一轮打击、伊朗发出战争警告，中东火药桶一触即发？",
-          "url": "https://wallstreetcn.com/articles/3784121",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时43分"
+          "appearance_count": 2,
+          "time_info": "[10时43分 ~ 17时04分]"
         },
         {
-          "title": "伊朗最高领袖会见议会议长卡利巴夫",
-          "url": "https://www.toutiao.com/trending/7699142459120484914/",
-          "source": "今日头条",
+          "title": "美股盘前：特斯拉跌约5%，半导体股、光通信股普跌",
+          "url": "https://wallstreetcn.com/livenews/3183307",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时43分"
+          "time_info": "17时04分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "普京：不排除与特朗普赴华会晤可能性",
@@ -101,6 +168,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时43分"
+        },
+        {
+          "title": "默茨：对华政策，我们跟特朗普不一样",
+          "url": "https://news.ifeng.com/c/8xQF4vpHREI",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
+        },
+        {
+          "title": "克林顿嘲讽特朗普诺贝尔奖言论",
+          "url": "https://www.douyin.com/hot/2707583",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
         }
       ]
     }
